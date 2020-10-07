@@ -1,0 +1,26 @@
+{
+  "name": "express-multi-port",
+  "version": "1.0.0",
+  "description": "express bind multi port",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarencetw/express-multi-port.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Clarence <me@clarence.tw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarencetw/express-multi-port/issues"
+  },
+  "homepage": "https://github.com/clarencetw/express-multi-port#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
